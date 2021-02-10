@@ -42,13 +42,7 @@
 <a href="https://github.com/akumar1997">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akumar1997&show_icons=true&theme=light&line_height=27" alt="Arnav's github stats"/>
 </a>
-<a href="https://github.com/akumar1997/FlightReservationSystemProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akumar1997&repo=FlightReservationSystemProject&theme=dark" />
 
-</a>
-<a href="https://github.com/akumar1997/Ublog">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akumar1997&repo=UBlog&theme=dark" />
-</a>
 
 <div align="center">
 
