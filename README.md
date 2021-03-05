@@ -20,7 +20,7 @@
 
 
 - 🔭 I’m currently working on Full Stack Development
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning HTML,CSS, JavaScript
 - 💬 Ask me about 
 - 📫 How to reach me: ak.arnavkumar1997@gmail.com
 - 😄 Pronouns: He/Him
